@@ -1,0 +1,20 @@
+{
+  "name": "licenseme",
+  "version": "1.0.0",
+  "description": "Generate LICENSE files. no cap.",
+  "main": "src/generator.js",
+  "bin": {
+    "licenseme": "./bin/licenseme.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["license", "generator", "cli"],
+  "author": "bruh.tools",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bruh-tools/licenseme"
+  },
+  "homepage": "https://bruh.tools/licenseme"
+}
