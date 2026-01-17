@@ -1,5 +1,5 @@
 {
-  "name": "licenseme",
+  "name": "licenseme-cli",
   "version": "1.0.0",
   "description": "Generate LICENSE files. no cap.",
   "main": "src/generator.js",
